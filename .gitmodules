@@ -1,3 +1,6 @@
 [submodule "BookVoyage-Backend"]
 	path = BookVoyage-Backend
 	url = git@github.com:chinguyen202/BookVoyage-Backend.git
+[submodule "BookVoyage-Frontend"]
+	path = BookVoyage-Frontend
+	url = git@github.com:chinguyen202/BookVoyage-Frontend.git
