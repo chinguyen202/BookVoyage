@@ -1,0 +1,3 @@
+[submodule "BookVoyage-Backend"]
+	path = BookVoyage-Backend
+	url = git@github.com:chinguyen202/BookVoyage-Backend.git
