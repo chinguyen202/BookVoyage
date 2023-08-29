@@ -4,11 +4,18 @@ Welcome to the BookVoyage project! This is a full-stack web application built us
 
 ## Table of Contents
 
+- [Repositories](#repositories)
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 - [License](#license)
+
+## Repositories
+
+<ul>
+  <li> Backend: https://github.com/chinguyen202/BookVoyage-Backend.git
+  <li> Frontend: https://github.com/chinguyen202/BookVoyage-Frontend.git
 
 ## Features
 
@@ -23,8 +30,6 @@ Welcome to the BookVoyage project! This is a full-stack web application built us
 Before you begin, ensure you have met the following requirements:
 
 - [.NET Core SDK](https://dotnet.microsoft.com/download) (v5.0 or later)
-- [Node.js](https://nodejs.org/) (v14 or later)
-- [npm](https://www.npmjs.com/) (v6 or later)
 - SQL Server or another database provider
 
   
@@ -34,7 +39,7 @@ Before you begin, ensure you have met the following requirements:
 -  ASP.NET Core with Identity Framework
 -  Entity Framework Core
 - MediatR for CQRS pattern
-- FluentValidation for validation
+- FluentValidation 
 
 ### Frontend:
  - TypeScript
